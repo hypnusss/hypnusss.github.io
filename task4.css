@@ -1,0 +1,86 @@
+*{margin: 0;padding: 0;}
+html{font-size: 62.5%;}
+body{background-color:#eff0f4;}
+img{transform:scale(0.5)}
+.header{
+    background-color:#5fc0cd;
+    font-family: STHeitiSC Light;
+    letter-spacing: 0.1rem;
+    color: #ffffff;
+    height: 4.5rem;
+    line-height: 4.5rem;
+}
+.register{
+    position: absolute;
+    font-size:1.6rem;
+    left:1.5rem;
+}
+.login{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    font-size: 1.8rem;
+    text-align: center;
+}
+.close{
+    position: absolute;
+    font-size: 1.6rem;
+    right: 1.5rem;
+}
+.text{
+    height: 5rem;
+    line-height: 5rem;
+    margin: 0.8rem auto;
+    background-color: #ffffff;
+}
+.input-box1{
+    position: absolute;
+    font-size: 1.6rem;
+    left: 5.8rem;
+    width: calc(100% - 5.8rem);
+    height:5rem;
+    top:5.4rem;
+    outline:none;
+    border: none;
+    text-indent:2rem;}
+.task4iphone,.task4locked {
+    left: 2.1rem;
+    height: 5rem;
+}
+.password{
+    height: 5rem;
+    line-height: 5rem;
+    margin: 0.8rem auto;
+    background-color: #ffffff;
+}
+.input-box2{
+    position: absolute;
+    font-size: 1.6rem;
+    left: 5.8rem;
+    width: calc(100% - 5.8rem);
+    height:5rem;
+    top:11.1rem;
+    outline:none;
+    border: none;
+    text-indent:2rem;
+}
+button{
+    background-color:#5fc0cd;
+    font-family: STHeitiSC Light;
+    letter-spacing: 1.8rem;
+    color: #ffffff;
+    height: 5rem;
+    font-size: 1.8rem;
+    border: none;
+    width: 100%
+}
+.bottom{
+    font-size:1.6rem;
+    text-align: right;
+    margin-top:0.8rem;
+    margin-right: 0.8rem;
+}
+a{
+    color:#5fc0cd
+}
