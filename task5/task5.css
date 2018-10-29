@@ -124,15 +124,13 @@ header img{
     padding-left: 2.8rem;
     display:flex;
     align-items: center;
-    margin-bottom: 5.3rem;
+    margin-bottom: 6.1rem;
 }
 .introduce{
-    margin-right:1.9rem;
     height: auto;
     width: 6.4rem;
-}
-.line{
-width: 0.09rem;
+    padding-right:1.8rem;
+    border-right: 0.05rem solid #e1e5e7;
 }
 .introduction p{
     font-size: 1.4rem;
